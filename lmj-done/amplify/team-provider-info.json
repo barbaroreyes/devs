@@ -10,6 +10,12 @@
       "StackName": "amplify-lmjdone-dev-165436",
       "StackId": "arn:aws:cloudformation:us-east-1:217175807922:stack/amplify-lmjdone-dev-165436/57bafcb0-4cb0-11ec-8f85-0e6434153721",
       "AmplifyAppId": "dpklfpudkyo7m"
+    },
+    "categories": {
+      "auth": {
+        "lmjdone851faf2e": {},
+        "true": {}
+      }
     }
   }
 }
