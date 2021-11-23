@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lmjdone-dev-165436-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217175807922:role/amplify-lmjdone-dev-165436-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217175807922:role/amplify-lmjdone-dev-165436-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lmjdone-dev-165436-deployment",
+      "UnauthRoleName": "amplify-lmjdone-dev-165436-unauthRole",
+      "StackName": "amplify-lmjdone-dev-165436",
+      "StackId": "arn:aws:cloudformation:us-east-1:217175807922:stack/amplify-lmjdone-dev-165436/57bafcb0-4cb0-11ec-8f85-0e6434153721",
+      "AmplifyAppId": "dpklfpudkyo7m"
+    }
+  }
+}
